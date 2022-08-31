@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/paypoint/static/css/main.b065915a.css",
+    "main.js": "/paypoint/static/js/main.ef862725.js",
+    "static/js/787.94e46b37.chunk.js": "/paypoint/static/js/787.94e46b37.chunk.js",
+    "static/media/metamask.png": "/paypoint/static/media/metamask.a11c95128d36de2dcd63.png",
+    "index.html": "/paypoint/index.html",
+    "main.b065915a.css.map": "/paypoint/static/css/main.b065915a.css.map",
+    "main.ef862725.js.map": "/paypoint/static/js/main.ef862725.js.map",
+    "787.94e46b37.chunk.js.map": "/paypoint/static/js/787.94e46b37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b065915a.css",
+    "static/js/main.ef862725.js"
+  ]
+}
